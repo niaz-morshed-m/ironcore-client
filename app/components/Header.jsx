@@ -31,7 +31,7 @@ export default function Header() {
   }
 
   return (
-    <header className="bg-slate-900 border-b border-slate-800 text-white">
+    <header className="bg-slate-900 border-b border-slate-800 text-white fixed z-50 w-full">
       <div className="container mx-auto px-4 py-3">
         <div className="flex flex-wrap items-center justify-between gap-4">
           <Link href="/" className="flex items-center gap-2">
