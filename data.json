@@ -1,0 +1,722 @@
+[
+  {
+    "id": "prod_001",
+    "slug": "olympic-barbell-20kg-pro",
+    "title": "Professional Olympic Barbell 20kg",
+    "category": "Weightlifting",
+    "brand": "IronMaster",
+    "pricing": {
+      "regularPrice": 299.00,
+      "salePrice": 249.00,
+      "currency": "USD",
+      "discountPercentage": 17
+    },
+    "stock": {
+      "status": "in_stock",
+      "quantity": 25
+    },
+    "images": [
+      {
+        "url": "https://www.sumostrength.com.au/cdn/shop/files/Barbell-Black_Pro20kg.jpg?v=1762125991&width=1620",
+        "alt": "Chrome Olympic Barbell"
+      }
+    ],
+    "shortDescription": "Competition-grade steel barbell with needle bearings for smooth rotation.",
+    "description": "Engineered for high-performance lifting, this 20kg Olympic Barbell is crafted from high-tensile alloy steel. It features a dual knurl mark system for both powerlifting and weightlifting grip positions. The chrome finish ensures long-lasting durability and resistance against corrosion, while the high-quality needle bearings provide a buttery-smooth sleeve rotation, reducing stress on your wrists during heavy cleans and snatches.",
+    "features": [
+      "Free Shipping",
+      "Lifetime Warranty on Shaft",
+      "Precision Knurling",
+      "Standard 2-inch Sleeve",
+      "Tested for 1500lbs"
+    ],
+    "specifications": {
+      "material": "Alloy Steel",
+      "weightCapacity": "680kg",
+      "dimensions": "220cm Length",
+      "adjustable": false
+    },
+    "ratings": {
+      "average": 4.9,
+      "totalReviews": 128
+    },
+    "reviews": [],
+    "actions": {
+      "addToCart": true,
+      "wishlist": true
+    },
+    "createdAt": "2026-01-12T08:00:00Z"
+  },
+  {
+    "id": "prod_002",
+    "slug": "adjustable-dumbbell-set-40kg",
+    "title": "Elite Adjustable Dumbbell System",
+    "category": "Strength Training",
+    "brand": "FlexTech",
+    "pricing": {
+      "regularPrice": 550.00,
+      "salePrice": 499.00,
+      "currency": "USD",
+      "discountPercentage": 10
+    },
+    "stock": {
+      "status": "in_stock",
+      "quantity": 15
+    },
+    "images": [
+      {
+        "url": "https://i5.walmartimages.com/asr/5a618075-4f27-45da-bc43-8747f5c3fd26.8ffd1a62f7006e2e2026063edc68e1de.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF",
+        "alt": "Adjustable Dumbbell on Stand"
+      }
+    ],
+    "shortDescription": "Space-saving adjustable dumbbells replacing 15 sets of weights.",
+    "description": "Maximize your home gym space with the FlexTech Elite Adjustable Dumbbells. With a simple turn of a dial, you can change your resistance from 5kg all the way up to 40kg. This set eliminates the need for a cluttered rack of weights, making it perfect for rapid-fire supersets and circuit training. The ergonomic handle is designed for a secure, non-slip grip even during the most intense sweat sessions.",
+    "features": [
+      "Rapid Weight Selection",
+      "Compact Storage",
+      "Rubber Coated Plates",
+      "Safety Locking Mechanism",
+      "Free Training App Access"
+    ],
+    "specifications": {
+      "material": "Steel and Thermoplastic",
+      "weightCapacity": "40kg per hand",
+      "dimensions": "45 x 25 x 25 cm",
+      "adjustable": true
+    },
+    "ratings": {
+      "average": 4.7,
+      "totalReviews": 84
+    },
+    "reviews": [],
+    "actions": {
+      "addToCart": true,
+      "wishlist": true
+    },
+    "createdAt": "2026-01-14T09:15:00Z"
+  },
+  {
+    "id": "prod_003",
+    "slug": "commercial-treadmill-z9",
+    "title": "Z9 Turbo Commercial Treadmill",
+    "category": "Cardio",
+    "brand": "Velocity",
+    "pricing": {
+      "regularPrice": 1800.00,
+      "salePrice": 1650.00,
+      "currency": "USD",
+      "discountPercentage": 8
+    },
+    "stock": {
+      "status": "in_stock",
+      "quantity": 5
+    },
+    "images": [
+      {
+        "url": "https://befitnow.ca/cdn/shop/files/SH-T8919_0d6fd267-5c20-4995-b72e-d937fe61e349.jpg?v=1744816464",
+        "alt": "High-end Treadmill Interface"
+      }
+    ],
+    "shortDescription": "Heavy-duty treadmill with 15% incline and touchscreen display.",
+    "description": "The Velocity Z9 Turbo brings the health club experience to your home. Featuring a powerful 4.0 HP continuous-duty motor, this treadmill supports speeds up to 22km/h and an automatic incline range of 0-15%. The 22-inch HD touchscreen comes pre-loaded with global running routes and studio classes. Its advanced shock-absorption deck reduces joint impact by 30%, allowing for longer, safer runs.",
+    "features": [
+      "22-inch HD Touchscreen",
+      "Heart Rate Monitoring",
+      "Built-in Cooling Fans",
+      "Bluetooth Speakers",
+      "Foldable Design"
+    ],
+    "specifications": {
+      "material": "Reinforced Steel",
+      "weightCapacity": "180kg",
+      "dimensions": "210 x 95 x 150 cm",
+      "adjustable": true
+    },
+    "ratings": {
+      "average": 4.8,
+      "totalReviews": 42
+    },
+    "reviews": [],
+    "actions": {
+      "addToCart": true,
+      "wishlist": true
+    },
+    "createdAt": "2026-01-15T14:20:00Z"
+  },
+  {
+    "id": "prod_004",
+    "slug": "kettlebell-set-cast-iron",
+    "title": "Premium Cast Iron Kettlebell Set",
+    "category": "Strength Training",
+    "brand": "GymPro",
+    "pricing": {
+      "regularPrice": 120.00,
+      "salePrice": 110.00,
+      "currency": "USD",
+      "discountPercentage": 8
+    },
+    "stock": {
+      "status": "in_stock",
+      "quantity": 30
+    },
+    "images": [
+      {
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiPAqBed5qkIpIUopDjvDhDaQft2sZTnjrpQ&s",
+        "alt": "Black Cast Iron Kettlebells"
+      }
+    ],
+    "shortDescription": "Solid cast iron kettlebells with wide handles for better grip.",
+    "description": "These kettlebells are gravity-cast in a single piece, creating a stronger, more reliable handle and a void-free surface. Coated with a matte black powder finish, they provide an excellent grip even when your hands are sweaty. Perfect for swings, snatches, and Turkish get-ups, these weights are essential for functional fitness and explosive power training.",
+    "features": [
+      "Single Piece Casting",
+      "Flat Anti-Wobble Base",
+      "Color-Coded Handles",
+      "Powder Coated Finish",
+      "24/7 Support"
+    ],
+    "specifications": {
+      "material": "Solid Cast Iron",
+      "weightCapacity": "Various",
+      "dimensions": "Standard Kettlebell Sizes",
+      "adjustable": false
+    },
+    "ratings": {
+      "average": 4.5,
+      "totalReviews": 210
+    },
+    "reviews": [],
+    "actions": {
+      "addToCart": true,
+      "wishlist": true
+    },
+    "createdAt": "2026-01-16T11:00:00Z"
+  },
+  {
+    "id": "prod_005",
+    "slug": "power-tower-multi-station",
+    "title": "Multi-Function Power Tower",
+    "category": "Calisthenics",
+    "brand": "BodyWeight",
+    "pricing": {
+      "regularPrice": 250.00,
+      "salePrice": 199.00,
+      "currency": "USD",
+      "discountPercentage": 20
+    },
+    "stock": {
+      "status": "in_stock",
+      "quantity": 10
+    },
+    "images": [
+      {
+        "url": "https://i.ebayimg.com/images/g/cNkAAOSwCJdnUunF/s-l1600.jpg",
+        "alt": "Power Tower Pull-up Station"
+      }
+    ],
+    "shortDescription": "All-in-one station for pull-ups, dips, and core exercises.",
+    "description": "The BodyWeight Multi-Function Power Tower is a versatile piece of equipment designed to strengthen your entire upper body and core. It includes a pull-up bar with multiple grip positions, a dedicated dip station, and comfortable padded armrests for vertical knee raises. The heavy-duty steel frame features an H-shaped base for superior stability, ensuring safety during high-intensity bodyweight movements.",
+    "features": [
+      "Anti-Slip Foot Pads",
+      "Ergonomic Padded Grips",
+      "Height Adjustable Bar",
+      "Tear-Resistant Cushions",
+      "Easy Assembly"
+    ],
+    "specifications": {
+      "material": "Heavy-Duty Steel",
+      "weightCapacity": "150kg",
+      "dimensions": "120 x 90 x 220 cm",
+      "adjustable": true
+    },
+    "ratings": {
+      "average": 4.6,
+      "totalReviews": 55
+    },
+    "reviews": [],
+    "actions": {
+      "addToCart": true,
+      "wishlist": true
+    },
+    "createdAt": "2026-01-18T16:45:00Z"
+  },
+  {
+    "id": "prod_006",
+    "slug": "indoor-cycling-bike-s3",
+    "title": "S3 Magnetic Resistance Cycle",
+    "category": "Cardio",
+    "brand": "Velocity",
+    "pricing": {
+      "regularPrice": 450.00,
+      "salePrice": 399.00,
+      "currency": "USD",
+      "discountPercentage": 11
+    },
+    "stock": {
+      "status": "in_stock",
+      "quantity": 18
+    },
+    "images": [
+      {
+        "url": "https://www.i-running.sg/wp-content/uploads/2021/04/Yesoul-S3-Spin-Bike-22-1.jpg",
+        "alt": "Indoor Cycling Bike"
+      }
+    ],
+    "shortDescription": "Whisper-quiet magnetic resistance bike for intense home cardio.",
+    "description": "The S3 Cycle is designed for high-performance indoor riding. Unlike traditional friction bikes, the S3 uses a magnetic resistance system that provides a smooth, silent ride with virtually no maintenance required. The 15kg flywheel ensures a realistic road feel, while the adjustable seat and handlebars allow for a customized fit for users of all sizes. Includes a tablet holder for following along with your favorite cycling apps.",
+    "features": [
+      "Silent Magnetic Drive",
+      "15kg Flywheel",
+      "LCD Data Monitor",
+      "Caged Pedals",
+      "Transport Wheels"
+    ],
+    "specifications": {
+      "material": "Steel Frame",
+      "weightCapacity": "130kg",
+      "dimensions": "110 x 50 x 120 cm",
+      "adjustable": true
+    },
+    "ratings": {
+      "average": 4.4,
+      "totalReviews": 92
+    },
+    "reviews": [],
+    "actions": {
+      "addToCart": true,
+      "wishlist": true
+    },
+    "createdAt": "2026-01-19T10:30:00Z"
+  },
+  {
+    "id": "prod_007",
+    "slug": "battle-ropes-heavy-duty",
+    "title": "Pro-Grade Battle Ropes",
+    "category": "Functional",
+    "brand": "IronMaster",
+    "pricing": {
+      "regularPrice": 85.00,
+      "salePrice": 75.00,
+      "currency": "USD",
+      "discountPercentage": 12
+    },
+    "stock": {
+      "status": "in_stock",
+      "quantity": 40
+    },
+    "images": [
+      {
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNRnRKx_HpMX6y51IhnJGojovBKQkFiyxHkQ&s",
+        "alt": "Heavy Battle Ropes on Floor"
+      }
+    ],
+    "shortDescription": "Durable polydacron ropes for full-body metabolic conditioning.",
+    "description": "Build explosive power and increase cardiovascular endurance with our Pro-Grade Battle Ropes. Made from high-quality polydacron, these ropes are wear-resistant and designed to withstand the most punishing workouts. The heat-shrunk handles provide a firm grip and protect your hands from friction. Ideal for slamming, waving, and whipping movements that engage the core, shoulders, and arms simultaneously.",
+    "features": [
+      "Triple-Strand Twist",
+      "Heat-Shrink End Caps",
+      "Waterproof Material",
+      "Includes Anchor Kit",
+      "Available in 9m/12m"
+    ],
+    "specifications": {
+      "material": "Polydacron",
+      "weightCapacity": "N/A",
+      "dimensions": "3.8cm Diameter, 12m Length",
+      "adjustable": false
+    },
+    "ratings": {
+      "average": 4.7,
+      "totalReviews": 68
+    },
+    "reviews": [],
+    "actions": {
+      "addToCart": true,
+      "wishlist": true
+    },
+    "createdAt": "2026-01-20T12:00:00Z"
+  },
+  {
+    "id": "prod_008",
+    "slug": "hex-dumbbell-set-rubber",
+    "title": "Rubber Hex Dumbbell Pairs",
+    "category": "Strength Training",
+    "brand": "GymPro",
+    "pricing": {
+      "regularPrice": 60.00,
+      "salePrice": 55.00,
+      "currency": "USD",
+      "discountPercentage": 8
+    },
+    "stock": {
+      "status": "in_stock",
+      "quantity": 50
+    },
+    "images": [
+      {
+        "url": "https://www.littleblokefitness.com.au/cdn/shop/files/PRO3_52d25878-060a-4882-8367-1f5e7e2b6c58_1080x.png?v=1748955542",
+        "alt": "Rubber Hex Dumbbells"
+      }
+    ],
+    "shortDescription": "Classic hex design with durable rubber coating and chrome handles.",
+    "description": "Our Rubber Hex Dumbbells are a staple for any serious gym-goer. The hexagonal shape prevents the weights from rolling away between sets, while the thick rubber coating protects your floors and reduces noise during drops. The contoured chrome handles feature deep knurling to ensure a secure and comfortable grip during heavy presses, curls, and rows.",
+    "features": [
+      "Anti-Roll Hex Design",
+      "Floor-Friendly Rubber",
+      "Rust-Resistant Handle",
+      "Sold in Pairs",
+      "Secure Shipping"
+    ],
+    "specifications": {
+      "material": "Cast Iron and Rubber",
+      "weightCapacity": "10kg to 50kg",
+      "dimensions": "Standard Hex Size",
+      "adjustable": false
+    },
+    "ratings": {
+      "average": 4.9,
+      "totalReviews": 315
+    },
+    "reviews": [],
+    "actions": {
+      "addToCart": true,
+      "wishlist": true
+    },
+    "createdAt": "2026-01-20T14:00:00Z"
+  },
+  {
+    "id": "prod_009",
+    "slug": "yoga-mat-eco-grip",
+    "title": "Eco-Grip Non-Slip Yoga Mat",
+    "category": "Yoga & Pilates",
+    "brand": "ZenFlow",
+    "pricing": {
+      "regularPrice": 45.00,
+      "salePrice": 38.00,
+      "currency": "USD",
+      "discountPercentage": 15
+    },
+    "stock": {
+      "status": "in_stock",
+      "quantity": 100
+    },
+    "images": [
+      {
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyMEsSOgwgF71QFLUzw3zrlH4Pqup0z_5eXw&s",
+        "alt": "Rolled Yoga Mat"
+      }
+    ],
+    "shortDescription": "Sustainable TPE yoga mat with alignment lines and superior grip.",
+    "description": "Elevate your practice with the Eco-Grip Yoga Mat. Crafted from biodegradable TPE material, this mat offers a perfect balance of cushioning and stability. The laser-etched alignment lines help beginners and advanced yogis alike maintain perfect posture. Its closed-cell surface prevents moisture and sweat from seeping into the mat, keeping it odor-free and easy to clean after a hot yoga session.",
+    "features": [
+      "Eco-Friendly Material",
+      "Alignment Map Design",
+      "Extra Thick Cushioning",
+      "Carry Strap Included",
+      "Latex-Free"
+    ],
+    "specifications": {
+      "material": "High-Density TPE",
+      "weightCapacity": "N/A",
+      "dimensions": "183 x 61 x 0.6 cm",
+      "adjustable": false
+    },
+    "ratings": {
+      "average": 4.8,
+      "totalReviews": 150
+    },
+    "reviews": [],
+    "actions": {
+      "addToCart": true,
+      "wishlist": true
+    },
+    "createdAt": "2026-01-10T09:00:00Z"
+  },
+  {
+    "id": "prod_010",
+    "slug": "power-rack-elite-series",
+    "title": "Elite Series Power Rack",
+    "category": "Weightlifting",
+    "brand": "IronMaster",
+    "pricing": {
+      "regularPrice": 899.00,
+      "salePrice": 799.00,
+      "currency": "USD",
+      "discountPercentage": 11
+    },
+    "stock": {
+      "status": "in_stock",
+      "quantity": 8
+    },
+    "images": [
+      {
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbzV9wRrI_XM8dwAXl1JowCzvXxiL5MRQQdg&s",
+        "alt": "Power Rack in Garage Gym"
+      }
+    ],
+    "shortDescription": "Commercial-grade steel power cage for safe heavy lifting.",
+    "description": "The Elite Series Power Rack is the foundation of any serious home or commercial gym. Built from 3x3 inch 11-gauge steel, this rack is designed to handle maximum loads with absolute stability. It includes J-hooks, safety spotter arms, and a multi-grip pull-up bar. The bolt-down design ensures it won't budge during heavy re-racks, providing you with the confidence to push your limits safely without a spotter.",
+    "features": [
+      "11-Gauge Steel Frame",
+      "Laser-Cut Numbering",
+      "Multiple Attachment Points",
+      "Safety Spotter Arms",
+      "Powder Coat Finish"
+    ],
+    "specifications": {
+      "material": "Structural Steel",
+      "weightCapacity": "500kg",
+      "dimensions": "125 x 120 x 215 cm",
+      "adjustable": true
+    },
+    "ratings": {
+      "average": 5.0,
+      "totalReviews": 25
+    },
+    "reviews": [],
+    "actions": {
+      "addToCart": true,
+      "wishlist": true
+    },
+    "createdAt": "2026-01-11T13:40:00Z"
+  },
+  {
+    "id": "prod_011",
+    "slug": "medicine-ball-set-leather",
+    "title": "Classic Leather Medicine Ball",
+    "category": "Functional",
+    "brand": "GymPro",
+    "pricing": {
+      "regularPrice": 65.00,
+      "salePrice": 59.00,
+      "currency": "USD",
+      "discountPercentage": 9
+    },
+    "stock": {
+      "status": "in_stock",
+      "quantity": 22
+    },
+    "images": [
+      {
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeCGJMyT02wnfaFD16vm007L6LLzV71GJA9A&s",
+        "alt": "Medicine Ball on Grass"
+      }
+    ],
+    "shortDescription": "Durable hand-stitched leather ball for core and plyometric drills.",
+    "description": "Our Classic Leather Medicine Ball is built for endurance and high-impact use. Featuring a hand-stitched synthetic leather cover, it offers a textured grip that is easy to hold even during explosive tossing movements. The balanced internal weight distribution ensures a consistent flight and bounce, making it ideal for wall balls, partner tosses, and core rotational exercises.",
+    "features": [
+      "Hand-Stitched Durability",
+      "Impact Absorbing",
+      "Textured Non-Slip Grip",
+      "Multiple Weight Options",
+      "Moisture Resistant"
+    ],
+    "specifications": {
+      "material": "Synthetic Leather",
+      "weightCapacity": "5kg - 15kg",
+      "dimensions": "35cm Diameter",
+      "adjustable": false
+    },
+    "ratings": {
+      "average": 4.6,
+      "totalReviews": 45
+    },
+    "reviews": [],
+    "actions": {
+      "addToCart": true,
+      "wishlist": true
+    },
+    "createdAt": "2026-01-13T10:20:00Z"
+  },
+  {
+    "id": "prod_012",
+    "slug": "foam-roller-high-density",
+    "title": "Deep Tissue Foam Roller",
+    "category": "Recovery",
+    "brand": "ZenFlow",
+    "pricing": {
+      "regularPrice": 35.00,
+      "salePrice": 25.00,
+      "currency": "USD",
+      "discountPercentage": 28
+    },
+    "stock": {
+      "status": "in_stock",
+      "quantity": 60
+    },
+    "images": [
+      {
+        "url": "https://www.smai.com.au/cdn/shop/files/FoamRoller-Grid-1_1024x1024.jpg?v=1686183616",
+        "alt": "Blue Foam Roller"
+      }
+    ],
+    "shortDescription": "High-density EVA foam roller for myofascial release and recovery.",
+    "description": "Say goodbye to muscle soreness with our Deep Tissue Foam Roller. Designed with a varied surface pattern, it mimics the hands of a massage therapist to target knots and trigger points. The high-density EVA foam ensures it won't lose its shape even after heavy daily use. It's the perfect tool for pre-workout activation or post-workout recovery to improve blood flow and flexibility.",
+    "features": [
+      "Grid Pattern for Massage",
+      "High-Density EVA",
+      "Lightweight & Portable",
+      "Waterproof",
+      "Includes Video Guide"
+    ],
+    "specifications": {
+      "material": "EVA Foam",
+      "weightCapacity": "200kg",
+      "dimensions": "45 x 15 cm",
+      "adjustable": false
+    },
+    "ratings": {
+      "average": 4.7,
+      "totalReviews": 210
+    },
+    "reviews": [],
+    "actions": {
+      "addToCart": true,
+      "wishlist": true
+    },
+    "createdAt": "2026-01-14T11:00:00Z"
+  },
+  {
+    "id": "prod_013",
+    "slug": "olympic-bumper-plates-set",
+    "title": "Color-Coded Bumper Plate Set",
+    "category": "Weightlifting",
+    "brand": "IronMaster",
+    "pricing": {
+      "regularPrice": 420.00,
+      "salePrice": 380.00,
+      "currency": "USD",
+      "discountPercentage": 10
+    },
+    "stock": {
+      "status": "in_stock",
+      "quantity": 12
+    },
+    "images": [
+      {
+        "url": "https://sc04.alicdn.com/kf/H7fa21e4dea3540b9a465af9b04c5c1ack.jpg",
+        "alt": "Stacked Bumper Plates"
+      }
+    ],
+    "shortDescription": "High-quality virgin rubber plates for safe dropping during lifts.",
+    "description": "These Bumper Plates are manufactured using high-grade virgin rubber to provide a consistent dead bounce and long-term durability. The stainless steel 2-inch center inserts are designed to fit snug on all standard Olympic bars, minimizing movement during lifts. Each plate is color-coded according to IWF standards, allowing for quick weight identification from across the gym.",
+    "features": [
+      "Low Bounce Formula",
+      "IWF Standard Colors",
+      "Stainless Steel Inserts",
+      "Odorless Virgin Rubber",
+      "Sold as 100kg Set"
+    ],
+    "specifications": {
+      "material": "Virgin Rubber / Steel",
+      "weightCapacity": "N/A",
+      "dimensions": "450mm Diameter",
+      "adjustable": false
+    },
+    "ratings": {
+      "average": 4.9,
+      "totalReviews": 58
+    },
+    "reviews": [],
+    "actions": {
+      "addToCart": true,
+      "wishlist": true
+    },
+    "createdAt": "2026-01-16T08:30:00Z"
+  },
+  {
+    "id": "prod_014",
+    "slug": "resistance-bands-set-5",
+    "title": "Multi-Level Resistance Band Set",
+    "category": "Functional",
+    "brand": "BodyWeight",
+    "pricing": {
+      "regularPrice": 40.00,
+      "salePrice": 29.00,
+      "currency": "USD",
+      "discountPercentage": 27
+    },
+    "stock": {
+      "status": "in_stock",
+      "quantity": 85
+    },
+    "images": [
+      {
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCSu6CbNMB9cdtTwtka5cd55L-eI5ByQSifQ&s",
+        "alt": "Colorful Resistance Bands"
+      }
+    ],
+    "shortDescription": "5-piece latex band set for mobility and strength training.",
+    "description": "Our Resistance Band Set is a portable gym in a bag. Made from 100% natural latex, these loop bands come in five varying resistance levels from 'Extra Light' to 'Extra Heavy'. Perfect for physical therapy, glute activation, or adding extra tension to compound movements like squats and deadlifts. The set includes a compact carrying case so you can stay on track with your fitness goals while traveling.",
+    "features": [
+      "100% Natural Latex",
+      "5 Resistance Levels",
+      "Carry Bag Included",
+      "Non-Snap Technology",
+      "Skin-Friendly"
+    ],
+    "specifications": {
+      "material": "Natural Latex",
+      "weightCapacity": "Up to 50lbs Tension",
+      "dimensions": "30 x 5 cm",
+      "adjustable": true
+    },
+    "ratings": {
+      "average": 4.3,
+      "totalReviews": 180
+    },
+    "reviews": [],
+    "actions": {
+      "addToCart": true,
+      "wishlist": true
+    },
+    "createdAt": "2026-01-17T15:10:00Z"
+  },
+  {
+    "id": "prod_015",
+    "slug": "rowing-machine-water-r1",
+    "title": "R1 Water Resistance Rower",
+    "category": "Cardio",
+    "brand": "Velocity",
+    "pricing": {
+      "regularPrice": 950.00,
+      "salePrice": 850.00,
+      "currency": "USD",
+      "discountPercentage": 10
+    },
+    "stock": {
+      "status": "in_stock",
+      "quantity": 6
+    },
+    "images": [
+      {
+        "url": "https://i5.walmartimages.com/asr/16c48cec-6498-45a5-b516-7ca11ea61677.a3f1cda31ac82c44954cc51604a64c6f.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF",
+        "alt": "Water Rower in Modern Room"
+      }
+    ],
+    "shortDescription": "Authentic water-resistance rowing machine with real wood finish.",
+    "description": "Experience the sensation of rowing on open water with the Velocity R1. This rower uses a water flywheel system that provides variable resistance based on how hard you pull—the faster you row, the higher the resistance. Crafted from solid ash wood and finished with a honey stain, this machine is as beautiful as it is functional. The soothing sound of rushing water makes it the perfect cardio choice for home environments.",
+    "features": [
+      "Natural Water Resistance",
+      "Solid Ash Wood Frame",
+      "S4 Performance Monitor",
+      "Ergonomic Seat",
+      "Space-Saving Storage"
+    ],
+    "specifications": {
+      "material": "Solid Wood & Acrylic",
+      "weightCapacity": "150kg",
+      "dimensions": "210 x 56 x 53 cm",
+      "adjustable": true
+    },
+    "ratings": {
+      "average": 4.9,
+      "totalReviews": 34
+    },
+    "reviews": [],
+    "actions": {
+      "addToCart": true,
+      "wishlist": true
+    },
+    "createdAt": "2026-01-19T17:00:00Z"
+  }
+]

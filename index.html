@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html class="scroll-smooth" lang="en"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>IronCore Fitness | Premium Gym Gear</title>
+<link href="https://fonts.googleapis.com" rel="preconnect"/>
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+<link href="https://fonts.googleapis.com/css2?family=Syncopate:wght@400;700&amp;family=Inter:wght@300;400;500;600;700&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons+Outlined" rel="stylesheet"/>
+<script src="https://cdn.tailwindcss.com?plugins=forms,typography"></script>
+<script>
+      tailwind.config = {
+        darkMode: "class",
+        theme: {
+          extend: {
+            colors: {
+              primary: "#FACC15", // Bright Yellow
+              "background-light": "#FFFFFF",
+              "background-dark": "#0F172A",
+              "card-light": "#F8FAFC",
+              "card-dark": "#1E293B",
+            },
+            fontFamily: {
+              display: ["Syncopate", "sans-serif"],
+              sans: ["Inter", "sans-serif"],
+            },
+            borderRadius: {
+              DEFAULT: "0.5rem",
+            },
+          },
+        },
+      };
+    </script>
+<style>
+        .hero-gradient {
+            background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('https://images.unsplash.com/photo-1534438327276-14e5300c3a48?q=80&w=2070&auto=format&fit=crop');
+            background-size: cover;
+            background-position: center;
+        }
+    </style>
+</head>
+<body class="bg-background-light dark:bg-background-dark text-slate-900 dark:text-slate-100 font-sans transition-colors duration-300">
+<header class="bg-slate-900 border-b border-slate-800 text-white">
+<div class="container mx-auto px-4 py-3">
+<div class="flex flex-wrap items-center justify-between gap-4">
+<div class="flex items-center gap-2">
+<span class="material-icons-outlined text-primary text-3xl">fitness_center</span>
+<span class="font-display font-bold text-xl tracking-tighter">IRONCORE<span class="text-primary">.</span></span>
+</div>
+<nav class="hidden md:flex items-center gap-8 text-xs font-bold tracking-widest uppercase">
+<a class="hover:text-primary transition-colors" href="#">Home</a>
+<a class="hover:text-primary transition-colors" href="#">Shop</a>
+<a class="hover:text-primary transition-colors" href="#">About</a>
+<a class="hover:text-primary transition-colors" href="#">Blog</a>
+<a class="hover:text-primary transition-colors" href="#">Contact</a>
+</nav>
+<div class="flex items-center gap-4 flex-1 md:flex-none max-w-sm">
+<div class="relative w-full">
+<input class="w-full bg-slate-800 border-none text-sm py-2 px-4 focus:ring-1 focus:ring-primary rounded" placeholder="Search product..." type="text"/>
+<button class="absolute right-0 top-0 h-full px-3 bg-primary text-slate-900 rounded-r">
+<span class="material-icons-outlined text-sm font-bold">search</span>
+</button>
+</div>
+<div class="relative cursor-pointer">
+<span class="material-icons-outlined">shopping_basket</span>
+<span class="absolute -top-2 -right-2 bg-primary text-slate-900 text-[10px] font-bold h-4 w-4 flex items-center justify-center rounded-full">3</span>
+</div>
+</div>
+</div>
+</div>
+<div class="bg-slate-950/50 py-2 border-t border-slate-800/50">
+<div class="container mx-auto px-4 overflow-x-auto">
+<div class="flex justify-between items-center gap-8 text-[10px] font-semibold tracking-wider uppercase whitespace-nowrap opacity-80">
+<div class="flex items-center gap-2"><span class="material-icons-outlined text-xs">local_shipping</span> Free Shipping Up to $50</div>
+<div class="flex items-center gap-2"><span class="material-icons-outlined text-xs">person</span> Online Coach</div>
+<div class="flex items-center gap-2"><span class="material-icons-outlined text-xs">settings</span> After Sale Maintenance</div>
+<div class="flex items-center gap-2"><span class="material-icons-outlined text-xs">monetization_on</span> Money Back Guarantee</div>
+<div class="flex items-center gap-2"><span class="material-icons-outlined text-xs">support_agent</span> Free Support 24/7</div>
+</div>
+</div>
+</div>
+</header>
+<section class="hero-gradient min-h-[600px] flex items-center justify-center text-center text-white px-4 relative overflow-hidden">
+<div class="max-w-4xl z-10">
+<p class="font-display tracking-[0.3em] text-sm md:text-xl mb-4 opacity-90 uppercase">Store</p>
+<h1 class="font-display text-4xl md:text-7xl font-bold mb-6 tracking-tight">PREMIUM <span class="text-primary">GYM GEAR</span></h1>
+<p class="text-slate-200 max-w-xl mx-auto mb-8 leading-relaxed font-light">
+                Elevate your performance with professional-grade fitness equipment designed for champions. Quality you can trust, results you can feel.
+            </p>
+<a class="inline-block bg-primary text-slate-900 font-bold px-10 py-4 uppercase tracking-widest hover:bg-white transition-all transform hover:-translate-y-1" href="#products">
+                Shop Now
+            </a>
+</div>
+<div class="absolute bottom-0 left-0 right-0 h-32 bg-gradient-to-t from-background-light dark:from-background-dark to-transparent"></div>
+</section>
+<section class="py-20 px-4" id="products">
+<div class="container mx-auto">
+<div class="text-center mb-12">
+<h2 class="font-display text-2xl md:text-4xl font-bold uppercase tracking-tight mb-2">Featured Products</h2>
+<div class="h-1 w-20 bg-primary mx-auto"></div>
+</div>
+<div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
+<div class="group">
+<div class="bg-slate-100 dark:bg-card-dark rounded-xl overflow-hidden mb-4 relative aspect-square flex items-center justify-center p-8 transition-transform group-hover:scale-[1.02]">
+<img alt="Bench Press Station" class="object-contain max-h-full mix-blend-multiply dark:mix-blend-normal rounded-lg opacity-90" src="https://lh3.googleusercontent.com/aida-public/AB6AXuA4z0o10iPl0n3FvArM6xMYhjDVT6UaJPUCCPNZEaqfG7JzreVgPaydQM7MHD1OXwNjOcMvwpC6kA8Zf2MZawoSMZ-A-pnyoNu2wVI680lx_APPxnQfBiIajEY4FtvZjKc-fKkoijD2XDdkmUFCFJESIe1QcUJcrAM082zIdGmZMZZmtGDNmumUwMGLmdKGGzo3ty5DyqC8wZnnRoXK_WUEAUaJf019e_3w_KcBfK60bx6J9458G2m2uuJbILLHqmHQyvpu-6Gu_w"/>
+<button class="absolute bottom-4 right-4 bg-primary text-slate-900 p-3 rounded-full opacity-0 group-hover:opacity-100 transition-opacity">
+<span class="material-icons-outlined">add_shopping_cart</span>
+</button>
+</div>
+<h3 class="font-display text-xs font-bold uppercase mb-1 tracking-tight">Bench Press Station Great</h3>
+<div class="flex items-center gap-2">
+<span class="text-slate-400 line-through text-sm">$77.00</span>
+<span class="text-primary font-bold text-lg">$72.00</span>
+</div>
+</div>
+<div class="group">
+<div class="bg-slate-100 dark:bg-card-dark rounded-xl overflow-hidden mb-4 relative aspect-square flex items-center justify-center p-8 transition-transform group-hover:scale-[1.02]">
+<img alt="Dumbell Set Stand" class="object-contain max-h-full mix-blend-multiply dark:mix-blend-normal rounded-lg opacity-90" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDrtdzg72RD8UCE8DGJx1vN81bkHN2vfcu7wJ2znfYcchs6uf_bHx6tkNPWEiN--sThJrI1ntk05FiLaFThfdK7dgV-K-pMRZwqH0X2v-FXfwvksOnJdsWjCRTudkBKt_We4UsQX25hR6bScA8LQ1ebPoEeHWp79_XPuBCPUzjw2XBK3GX9GUKdJqFLqTOf85RAZ2FXIwaATJmpc7fMnxtwCyBchciivNkjbUHEZlnpNKGME3lbUv5hHbo5BHlMOPsfARX0pTzZqw"/>
+<button class="absolute bottom-4 right-4 bg-primary text-slate-900 p-3 rounded-full opacity-0 group-hover:opacity-100 transition-opacity">
+<span class="material-icons-outlined">add_shopping_cart</span>
+</button>
+</div>
+<h3 class="font-display text-xs font-bold uppercase mb-1 tracking-tight">Dumbell Set Stand Type</h3>
+<div class="flex items-center gap-2">
+<span class="text-primary font-bold text-lg">$35.00</span>
+</div>
+</div>
+<div class="group">
+<div class="bg-slate-100 dark:bg-card-dark rounded-xl overflow-hidden mb-4 relative aspect-square flex items-center justify-center p-8 transition-transform group-hover:scale-[1.02]">
+<img alt="Training Dumbbells" class="object-contain max-h-full mix-blend-multiply dark:mix-blend-normal rounded-lg opacity-90" src="https://lh3.googleusercontent.com/aida-public/AB6AXuAnlHEp-dwgcHQyB4Jsi6mySycLbsoNydYSdmriwo4iLCiWuzPhGpAEtvvk6w2zmrubIiydtliUAfWoUcuYHlOz6wvP7foOYreGm2VVLqbtwLH9LIdorBL44JK4L1zwZwFSrOydDtYkRrPMsJegVW9teNp6ih2Dyde1THv1_EOaKxelhrZyjx7h6zlITs2dLutRzgN5rwcnGtvULYqEyV5vNvrbiR_6rdOmcue1KLi8rFnV7BVnYJllxgiUkOAs4_4oOCSSP0Z8Og"/>
+<button class="absolute bottom-4 right-4 bg-primary text-slate-900 p-3 rounded-full opacity-0 group-hover:opacity-100 transition-opacity">
+<span class="material-icons-outlined">add_shopping_cart</span>
+</button>
+</div>
+<h3 class="font-display text-xs font-bold uppercase mb-1 tracking-tight">Dumbbells Training Hands</h3>
+<div class="flex items-center gap-2">
+<span class="text-primary font-bold text-lg">$55.00</span>
+</div>
+</div>
+<div class="group">
+<div class="bg-slate-100 dark:bg-card-dark rounded-xl overflow-hidden mb-4 relative aspect-square flex items-center justify-center p-8 transition-transform group-hover:scale-[1.02]">
+<img alt="Kettlebell Grey" class="object-contain max-h-full mix-blend-multiply dark:mix-blend-normal rounded-lg opacity-90" src="https://lh3.googleusercontent.com/aida-public/AB6AXuCzrV_6nC0eCm2_OH239gjzHwddw8mjNyDeNVqWOX4FmPMoG1DxBZZH_cvA34Wht635lsJsemoerFxy8CjbTcew5GbrkpTokgHdIFqab6V5OHTHIgPYGY-DP_hh5RzZ5qyZU3i36URN4lnY08Kc0OmXNraJej7iA3u222K9-oszDZh9mRq0ejoRyi3kOVdE8137CC4_j67UBorbakgazeNZCQ1rdN8Qpn6QqRuF3wOH9UPzKbDwcAAogHZYvt_QKmbst9nsY2TI5g"/>
+<button class="absolute bottom-4 right-4 bg-primary text-slate-900 p-3 rounded-full opacity-0 group-hover:opacity-100 transition-opacity">
+<span class="material-icons-outlined">add_shopping_cart</span>
+</button>
+</div>
+<h3 class="font-display text-xs font-bold uppercase mb-1 tracking-tight">Kettlebell Grey Absolute</h3>
+<div class="flex items-center gap-2">
+<span class="text-primary font-bold text-lg">$44.00</span>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="py-20 px-4 bg-slate-50 dark:bg-slate-900/50">
+<div class="container mx-auto">
+<div class="text-center mb-12">
+<h2 class="font-display text-2xl md:text-4xl font-bold uppercase tracking-tight mb-2">Choose What You Want</h2>
+<div class="h-1 w-20 bg-primary mx-auto"></div>
+</div>
+<div class="grid md:grid-cols-2 gap-6">
+<div class="relative h-[400px] group overflow-hidden rounded-2xl cursor-pointer">
+<img alt="Home Gym" class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDjyvEXn4jKVFbw35CmL95Zx-SUNGRXGGkBsON5egXp_f_brgwqxwkr8c5ZYAg2S5RS_Ej0zYQGNB22XMBRVg0dpdM56P6-fUfGdW4lQezfgw638I8357Fbe5vOMlBUBnrP6r-X6gGbCjEKhFzdPwWsw4a_rT0nAr1fi5ghrCYYYNli5cj7H63VO9_izPqcORMklur5AVeOYBEATZjMk9vNp6ybhQ3tZwXzX-ojKSwGfOjhVXhLrfruBDyQunC70HyxG0djVT4JIw"/>
+<div class="absolute inset-0 bg-gradient-to-t from-black/80 via-transparent to-transparent"></div>
+<div class="absolute top-6 left-6">
+<span class="bg-primary text-slate-900 font-display font-bold text-xs px-4 py-2 uppercase tracking-widest">Home Gym</span>
+</div>
+<div class="absolute bottom-8 left-8">
+<h4 class="text-white font-display text-2xl mb-2">Build Your Sanctuary</h4>
+<p class="text-slate-300 text-sm max-w-xs">Everything you need to turn your garage or spare room into a world-class training facility.</p>
+</div>
+</div>
+<div class="relative h-[400px] group overflow-hidden rounded-2xl cursor-pointer">
+<img alt="Sit Up Bench" class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDDIUriYuyH_pcqIr9OCkLsx8rRgFryFUmwkXicxQ5tAfhSIOBDY5HVp9kWIOR8lZkQJ-qFUoYbeE51nZup8zRjEBdmxECxeavHBduzX7opI0fXEvEWkY7M7rkbKoI3u2Y1gINJhaHHDaL5kpzaw-suPWbwUao8Lecya-27rqU0P_75SjnRUkQDrUg2_W18NHJoIinYySOoHJsz2StwRO0uZae4UIX1yDGbfN4AOBh39jw4P-3YkQlCZ80iOLX9RfuMnXMbqLMxKQ"/>
+<div class="absolute inset-0 bg-gradient-to-t from-black/80 via-transparent to-transparent"></div>
+<div class="absolute top-6 left-6">
+<span class="bg-primary text-slate-900 font-display font-bold text-xs px-4 py-2 uppercase tracking-widest">Strength Training</span>
+</div>
+<div class="absolute bottom-8 left-8">
+<h4 class="text-white font-display text-2xl mb-2">Unleash Your Power</h4>
+<p class="text-slate-300 text-sm max-w-xs">Precision engineered machines and free weights for maximum hypertrophy and performance.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="py-20 px-4">
+<div class="container mx-auto">
+<div class="bg-slate-900 dark:bg-card-dark rounded-[2rem] p-8 md:p-16 flex flex-col md:flex-row items-center justify-between gap-8 text-white">
+<div class="max-w-xl text-center md:text-left">
+<h2 class="font-display text-3xl md:text-5xl font-bold mb-4">JOIN THE <span class="text-primary">ELITE</span></h2>
+<p class="text-slate-400 mb-0">Sign up for our newsletter to receive exclusive offers, training tips, and early access to new product drops.</p>
+</div>
+<div class="flex flex-col sm:flex-row gap-4 w-full md:w-auto">
+<input class="bg-slate-800 border-none text-white px-6 py-4 rounded-full focus:ring-primary w-full md:w-80" placeholder="Your Email Address" type="email"/>
+<button class="bg-primary text-slate-900 font-bold px-8 py-4 rounded-full uppercase tracking-widest hover:bg-white transition-all">Subscribe</button>
+</div>
+</div>
+</div>
+</section>
+<footer class="bg-slate-950 text-slate-400 py-16 px-4">
+<div class="container mx-auto grid grid-cols-1 md:grid-cols-4 gap-12">
+<div class="space-y-6">
+<div class="flex items-center gap-2">
+<span class="material-icons-outlined text-primary text-3xl">fitness_center</span>
+<span class="font-display font-bold text-xl tracking-tighter text-white">IRONCORE<span class="text-primary">.</span></span>
+</div>
+<p class="text-sm leading-relaxed">The ultimate destination for premium gym equipment. We provide the tools, you provide the work. Built for those who refuse to settle.</p>
+<div class="flex gap-4">
+<a class="h-10 w-10 bg-slate-900 flex items-center justify-center rounded-full hover:bg-primary hover:text-slate-900 transition-colors" href="#">
+<i class="material-icons-outlined text-lg">public</i>
+</a>
+<a class="h-10 w-10 bg-slate-900 flex items-center justify-center rounded-full hover:bg-primary hover:text-slate-900 transition-colors" href="#">
+<i class="material-icons-outlined text-lg">facebook</i>
+</a>
+<a class="h-10 w-10 bg-slate-900 flex items-center justify-center rounded-full hover:bg-primary hover:text-slate-900 transition-colors" href="#">
+<i class="material-icons-outlined text-lg">camera_alt</i>
+</a>
+</div>
+</div>
+<div>
+<h4 class="font-display text-white text-sm font-bold uppercase mb-6 tracking-widest">Shop</h4>
+<ul class="space-y-3 text-sm">
+<li><a class="hover:text-primary transition-colors" href="#">Home Gym Kits</a></li>
+<li><a class="hover:text-primary transition-colors" href="#">Dumbbells &amp; Weights</a></li>
+<li><a class="hover:text-primary transition-colors" href="#">Cardio Machines</a></li>
+<li><a class="hover:text-primary transition-colors" href="#">Yoga &amp; Recovery</a></li>
+</ul>
+</div>
+<div>
+<h4 class="font-display text-white text-sm font-bold uppercase mb-6 tracking-widest">Company</h4>
+<ul class="space-y-3 text-sm">
+<li><a class="hover:text-primary transition-colors" href="#">About Us</a></li>
+<li><a class="hover:text-primary transition-colors" href="#">Careers</a></li>
+<li><a class="hover:text-primary transition-colors" href="#">Affiliates</a></li>
+<li><a class="hover:text-primary transition-colors" href="#">Press</a></li>
+</ul>
+</div>
+<div>
+<h4 class="font-display text-white text-sm font-bold uppercase mb-6 tracking-widest">Support</h4>
+<ul class="space-y-3 text-sm">
+<li><a class="hover:text-primary transition-colors" href="#">Shipping Policy</a></li>
+<li><a class="hover:text-primary transition-colors" href="#">Returns &amp; Refunds</a></li>
+<li><a class="hover:text-primary transition-colors" href="#">Contact Us</a></li>
+<li><a class="hover:text-primary transition-colors" href="#">FAQs</a></li>
+</ul>
+</div>
+</div>
+<div class="container mx-auto mt-16 pt-8 border-t border-slate-900 text-center text-xs">
+<p>© 2024 IronCore Fitness. All Rights Reserved. Designed for performance.</p>
+</div>
+</footer>
+<button class="fixed bottom-6 right-6 h-12 w-12 bg-primary text-slate-900 rounded-full shadow-lg flex items-center justify-center hover:scale-110 transition-transform z-50" onclick="document.documentElement.classList.toggle('dark')">
+<span class="material-icons-outlined">dark_mode</span>
+</button>
+
+</body></html>
