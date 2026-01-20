@@ -6,11 +6,9 @@ export default function AboutPage() {
   return (
     <div className="bg-background-light dark:bg-background-dark text-white font-display overflow-x-hidden">
       {/* Grain Overlay for Texture */}
-      <div className="fixed inset-0 grain-overlay z-50"></div>
-<div>
-  <Header></Header>
-</div>
-      <main className="relative">
+      <div className="fixed w-full z-50">  <Header></Header></div>
+
+      <main className="">
         {/* Hero Section */}
         <section className="relative h-[85vh] w-full flex items-center justify-center overflow-hidden">
           <div className="absolute inset-0 z-0">
